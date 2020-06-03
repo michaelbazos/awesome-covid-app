@@ -8,6 +8,10 @@ Open source Contact Tracing apps from around the world
 
 - AarogyaSetu: https://github.com/nic-delhi
 
+### Japan
+
+- Mamori i Japan (Community Effort): https://github.com/mamori-i-japan
+
 ### Singapore
 
 - Open Trace: https://github.com/OpenTrace-community
