@@ -12,6 +12,10 @@ Open source Contact Tracing apps from around the world
 
 - Corona Warn App (CWA) : https://github.com/corona-warn-app
 
+### Iceland
+
+- Rakning C-19 App: https://github.com/aranja/rakning-c19-app
+
 ### Italy
 
 - Immuni App: https://github.com/immuni-app
