@@ -7,3 +7,7 @@ Open source Contact Tracing apps from around the world
 ### Austria
 
 - Stopp Corona: https://github.com/austrianredcross
+
+### Germany
+
+- Corona Warn App : https://github.com/corona-warn-app
