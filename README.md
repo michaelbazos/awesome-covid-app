@@ -2,6 +2,12 @@
 
 Open source Contact Tracing apps from around the world
 
+## Asia
+
+### Singapore
+
+- Open Trace: https://github.com/OpenTrace-community
+
 ## Europe
 
 ### Austria
