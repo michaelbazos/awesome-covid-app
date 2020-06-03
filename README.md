@@ -8,6 +8,10 @@ Open source Contact Tracing apps from around the world
 
 - Stopp Corona: https://github.com/austrianredcross
 
+### France
+
+- StopCovid: https://gitlab.inria.fr/stopcovid19
+
 ### Germany
 
 - Corona Warn App (CWA) : https://github.com/corona-warn-app
